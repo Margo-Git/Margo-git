@@ -5,13 +5,13 @@
 
 - Curious & cheerful
 - Calm & patient
-- Honest and serious
+- Honest & serious
 
 ### More about me 
 
 - Traveling & Video games
 - Japan lover
-- Addict to thrills (long live to parachute jumping)
+- Addict to thrills
 
 
 
