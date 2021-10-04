@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Margo-Git/Margo-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 
 
-Here are some ideas to get you started:
+I'm Margo Brenneur, a web & web mobile developper.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in France
+- 💻 Working on UI with React & Learning Symfony
+- 💡 Incomming project : make a fullstack travel blog app
+
+### My values
+
+- Curious & cheerful
+- Calm & patient
+- Honest and serious
+
+### More about me 
+
+- Traveling & Video games
+- Japan lover
+- Addict to thrills (long live to parachute jumping)
+
+
+
+
