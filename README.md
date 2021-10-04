@@ -1,11 +1,5 @@
-![Cover](https://github.com/Margo-Git/Margo-git/blob/dfdb6c79fff076b55d59b207dd486872cef64497/img/dune_01.png)
+![Cover](https://github.com/Margo-Git/Margo-git/blob/effeb9bdff43cf96f87974dfc9b276dd25468e93/img/dune_02.png)
 ## Hi there 👋 
-
-I'm Margo Brenneur, a web & web mobile developper.
-
-- 🌍 Based in France
-- 💻 Working on UI with React & Learning Symfony
-- 💡 Incomming project : make a fullstack travel blog app
 
 ### My values
 
