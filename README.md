@@ -1,4 +1,4 @@
-![Cover](https://github.com/Margo-Git/Margo-git/blob/effeb9bdff43cf96f87974dfc9b276dd25468e93/img/dune_02.png)
+![Cover](https://github.com/Margo-Git/Margo-git/blob/cdeb9421005f91bbc6d1f95aaad93da7a842ff74/img/apsk5dmx.png)
 ## Hi there 👋 
 
 ### My values
