@@ -3,9 +3,7 @@
 
 ### My values
 
-- Curious & cheerful
-- Calm & patient
-- Honest & serious
+Curious & cheerful
 
 ### More about me 
 
